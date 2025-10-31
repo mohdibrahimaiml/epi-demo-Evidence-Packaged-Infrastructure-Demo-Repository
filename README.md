@@ -4,7 +4,7 @@ Welcome! This repository contains example `.epi` recordings that demonstrate the
 
 ## What is EPI?
 
-EPI (Extended Prompt Interaction) is an **experimental format** for recording, replaying, and analyzing AI API interactions. Think of it as "video recording for AI conversations" — capturing the full context, timing, and behavior of LLM interactions in a shareable, auditable format.
+EPI (Evidence Packaged Infrastructure) is a universal recording layer for AI systems. It captures and packages every model interaction, code execution, and context snapshot into a single verifiable file — creating a permanent, auditable record of how any AI decision was made.
 
 **Status:** Prototype/proof-of-concept. Not yet a standardized format.
 
